@@ -1,0 +1,8 @@
+Objects/
+Listings/
+*.uvoptx
+*.uvguix.*
+**/RTE/Device/
+JLinkLog.txt
+JLinkSettings.ini
+__pycache__/
